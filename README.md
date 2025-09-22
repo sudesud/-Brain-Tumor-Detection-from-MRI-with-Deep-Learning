@@ -8,13 +8,7 @@ Keras/TensorFlow ile CNN modeli
 
 Görsel ön işleme, eğitim, test ve performans analizi
 
-📁 Kullanım
-bash
-Kopyala
-Düzenle
-git clone https://github.com/kullaniciadi/brain-tumor-detection.git
-pip install -r requirements.txt
-jupyter notebook MRI.ipynb
+
 📊 Veri
 Kullanılan veri kümesi Kaggle’dan alınmıştır ve tumor, no_tumor sınıflarını içerir.
 
